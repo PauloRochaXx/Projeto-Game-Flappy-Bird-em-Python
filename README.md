@@ -11,6 +11,7 @@ Aplicar conceitos fundamentais de programação em Python, utilizando o pygame p
 ## Tecnologias utilizadas
 - Python 3
 - pygame
+- PyCharm
 
 ## Como executar o projeto
 
